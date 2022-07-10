@@ -23,5 +23,8 @@ public static void main(String[] args) {
 	Object untill=w.until(ExpectedConditions.visibilityOfElementLocated(By.id("pass")));
 	//WebElement element=(WebElement)until;
 	//element.sendKeys("123456");
+	
+	//git push and pull
+	System.out.println("fluentwait");
 }
 }
