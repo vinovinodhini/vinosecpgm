@@ -26,5 +26,6 @@ public static void main(String[] args) {
 	
 	//git push and pull
 	System.out.println("fluentwait");
+	System.out.println("2");
 }
 }
